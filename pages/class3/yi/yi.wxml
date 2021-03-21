@@ -1,0 +1,11 @@
+
+<view class="head1">已完成{{n1}}道题，做对{{n2}}道题，还剩{{n3}}道题</view>
+<view class="suanshi"> {{a1}}{{b1}}{{a2}}{{b2}}{{a3}}</view>
+<input type="number" bindinput="shuru" placeholder="输入结果" class="shuru1"></input>
+<button type="button" disabled="{{wancheng}}" bindtap="jianyan">提交</button>
+<view wx:if="{{isshow}}" class="head1">{{tishi}}</view>
+<view wx:if="{{isshow}}" class="suanshi">{{a1}}{{b1}}{{a2}}{{b2}}{{a3}}正确答案是{{result}}</view>
+<view class="jiange"></view>
+<button type="button" disabled="{{wancheng}}" bindtap="chuti">下一个</button>
+<image src='/images/c.jpg'></image>
+<view wx:if="{{isshow1}}" class="gongxi">恭喜你完成了30道口算题，太棒了！</view>

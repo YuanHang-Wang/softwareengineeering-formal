@@ -1,0 +1,28 @@
+<view class="biaoti">
+你的年级是几年级？
+</view>
+<view class="jiange">
+</view>
+<view class="jiange">
+</view>
+<view class="jiange">
+</view>
+<navigator url="/pages/class1/class1" >
+<button class="weui-btn" type="primary" bindtap="toggleLoading">一年级</button>
+</navigator>
+<view class="jiange">
+</view>
+
+
+<navigator url="/pages/class2/class2">
+  <button class="weui-btn" type="primary" bindtap="toggleLoading">二年级</button>
+</navigator>
+
+<view class="jiange">
+</view>
+
+<navigator url="/pages/class3/class3" >
+<button class="weui-btn" type="primary" bindtap="toggleLoading">三年级</button>
+</navigator>
+
+<image src='/images/OIP.jpg'></image>

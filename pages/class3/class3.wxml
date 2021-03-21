@@ -1,0 +1,12 @@
+<view class="head2">请选择你想练习的模块</view>
+<view class="jiange"></view>
+
+
+<view class="jiange"></view>
+<button class="goto1" hover-class="navigator-hover" bindtap="goto1">除数是一位数除法</button>
+
+<view class="jiange"></view>
+<button class="goto2" hover-class="navigator-hover" bindtap="goto2">多位数乘一位数</button>
+
+<view class="jiange"></view>
+<button class="goto3" hover-class="navigator-hover" bindtap="goto3">分数的简单运算</button>

@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    
+    "mp-navigation-bar": "/navigation-bar/navigation-bar"
+  },
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "UI组件库"
+}

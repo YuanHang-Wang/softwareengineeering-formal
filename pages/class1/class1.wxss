@@ -1,0 +1,27 @@
+/* pages/class1/class1.wxss */
+.shuru1{
+  height: 100rpx;
+  width: 100%;
+  background: lightpink;
+}
+.suanshi{
+  height: 100rpx;
+  width: 100%;
+  background: limegreen;
+}
+.head1{
+  height: 100rpx;
+  width: 100%;
+  background: lightyellow;
+}
+.jiange{
+  height: 100rpx;
+  width: 100%;
+  background: white;
+}
+.gongxi{
+  height: 300rpx;
+  width: 100%;
+  background: red;
+  font-size: 90rpx;
+}
